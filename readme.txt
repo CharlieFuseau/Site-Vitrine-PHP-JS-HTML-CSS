@@ -1,5 +1,3 @@
-reecriture d'url
-
 /etc/apache2/sites-avaliable/SLAM5.conf 
 
 <VirtualHost *:80>
@@ -39,8 +37,7 @@ reecriture d'url
 
 
 
-
-2eme virtual host pour exception phpmyadmin
+#///////////////////////////////////////////////////////////////////////////////#
 
 
 
@@ -81,13 +78,3 @@ reecriture d'url
 </VirtualHost>
 
 # vim: syntax=apache ts=4 sw=4 sts=4 sr noet
-
-
-
-
-
-	
-PHPMYADMIN
-
-phpmyadmin
-toor
